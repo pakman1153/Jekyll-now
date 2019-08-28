@@ -2,13 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+We are a small family shop run in a small venue in Prince William County VA.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We someday soon plan to host glass blowing experience classes to sahre teh love of creating art out of glass.
 
 ### Contact me
 
