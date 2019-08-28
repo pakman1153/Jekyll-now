@@ -9,7 +9,7 @@ We are a small family shop run in a small venue in Prince William County VA.
 
 ### More Information
 
-We someday soon plan to host glass blowing experience classes to sahre teh love of creating art out of glass.
+We someday soon plan to host glass blowing experience classes to share the love of creating art out of glass.
 
 ### Contact me
 
