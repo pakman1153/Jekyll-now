@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Fired up and running!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+It is believed that the first glass balls made to be hung on a Christmas tree were produced by a German glassblower in the river valley town of Lauscha in the early part of the 19th century. It wasnâ€™t long before locals fell in love with the shiny decorations, and he began producing enough for gifts to be sold in his shop.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+It all starts out with a glob of 2000+ degree glass on the end of a pipe.
